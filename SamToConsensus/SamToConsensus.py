@@ -3,7 +3,7 @@ import pysam
 from Bio import SeqIO
 
 def main():
-    return  None
+    return None
 
 
 if __name__ == '__main__':
